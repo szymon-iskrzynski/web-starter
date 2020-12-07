@@ -12,17 +12,17 @@ Click on `Use this template` button to generate a new repository based on this s
 ## Available scripts
 
 ```sh
-npm run server
+$ npm run server
 ```
 - runs development mode, run `localhost:8080` in your browser to see the page preview
 
 ```sh
-npm run build
+$ npm run build
 ```
 - runs build process for production
 
 ```sh
-npm run publish 
+$ npm run publish 
 ```
 - runs build process and publish the page using `gh-pages` branch
 
@@ -48,7 +48,7 @@ npm run publish
 | postcss-loader | 3.0.0 |
 | sass | 1.26.5 |
 | sass-loader | 8.0.2 |
-| style-loader1.2.1 |
+| style-loader | 1.2.1 |
 | terser-webpack-plugin | 3.0.2 |
 | webpack | 4.43.0 |
 | webpack-cli | 3.3.11 |
