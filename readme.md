@@ -1,4 +1,4 @@
-![cover](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1920px-Npm-logo.svg)
+![cover](upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg)
 
 # Web starter
 
